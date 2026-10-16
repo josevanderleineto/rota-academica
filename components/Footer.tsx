@@ -29,7 +29,7 @@ export const Footer: React.FC = () => {
                 <MapPin size={16} /> Atendimento Online (Brasil) & Salvador - BA
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#94a3b8' }}>
-                <Mail size={16} /> contato@rotaacademica.com.br
+                <Mail size={16} /> jose.vanderlei.nn@gmail.com
               </div>
             </div>
           </div>
