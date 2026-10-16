@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { BLOG_POSTS } from '@/data/blogPosts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.rotaacademica.com.br';
+  const baseUrl = 'https://rota-academica.vercel.app/';
 
   const staticRoutes = [
     '',
